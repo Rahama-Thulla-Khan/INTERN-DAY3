@@ -1,6 +1,6 @@
 Internship Day 3 - Learning Summary 🚀
-📅 Date: [Your Date]
-🏢 Internship at: [Company/Organization Name]
+📅 Date: [29-01-2025]
+🏢 Internship at: [TOP TECH DEVOLPERS]
 
 📌 What I Did Today:
 1️⃣ Added an Image Under the Dashboard
